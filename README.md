@@ -2,6 +2,11 @@
 ## 📄 Overview
 This interactive Power BI dashboard provides insights into hotel booking trends, revenue analysis, and cancellation patterns. It helps understand customer behavior, revenue streams, and key factors affecting hotel occupancy.
 
+### Dataset Link:
+Kaggle: "https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand"
+Format: CSV (119,390 rows × 32 columns)
+
+
 ## 📊 Key Performance Indicators (KPIs)
 - Total Revenue – Total income generated from bookings.
 - Cancellation Rate – Percentage of bookings that were canceled.
@@ -26,7 +31,12 @@ This interactive Power BI dashboard provides insights into hotel booking trends,
   - Geographic insights with bubble sizes representing occupancy rates.
 
 ## 📄 Insights & Business Value
-✔ Helps hotels understand customer booking trends & cancellation patterns.
-✔ Provides insights into revenue generation by different customer types.
-✔ Identifies peak and off-peak booking seasons for better resource allocation.
-✔ Allows management to optimize pricing and special request handling.
+- Helps hotels understand customer booking trends & cancellation patterns.
+- Provides insights into revenue generation by different customer types.
+- Identifies peak and off-peak booking seasons for better resource allocation.
+- Allows management to optimize pricing and special request handling.
+
+## 🔗 Connect
+### 💼 LinkedIn: www.linkedin.com/in/muhammadfahadqazi27
+### 📧 Email: fahadqazi2027@gmail.com
+
